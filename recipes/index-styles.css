@@ -1,0 +1,26 @@
+h1 {
+color:black;
+text-align: center;
+font: size 24px;
+background-color:pink;
+font-family: "Lucida Handwriting", monospace;
+font-size: 36px;
+
+}
+
+body {
+    background-color: lightcoral;
+    color:black;
+}
+
+
+.list-title {
+    text-align:center;
+    font-family: "Lucida Handwriting", monospace;
+    font-size: 24px;
+    background-color:pink;
+}
+
+.link {
+    font-size: 24px;
+}
