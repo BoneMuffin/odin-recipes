@@ -1,3 +1,7 @@
+* {
+    font-family: "Lucida Handwriting", monospace;
+}
+
 h1 {
 color:black;
 text-align: center;
@@ -21,6 +25,12 @@ body {
     background-color:pink;
 }
 
-.link {
-    font-size: 24px;
+.list-links {
+    font-size: 16px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.footer {
+    background-color: ;
 }
